@@ -597,3 +597,17 @@ footer p {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.3s ease-in-out;
 }
+
+.att
+{
+  text-decoration: none;
+}
+.progress-container  .c1:hover
+{
+  box-shadow: 0 0 30px 15px #7018b2;
+}
+.progress-container .circle-label
+{
+  color: white;
+
+}
